@@ -1,0 +1,29 @@
+{
+    "folder1": {
+      "subfolder1": {
+        "file1.txt": {},
+        "file2.txt": {}
+      },
+      "subfolder2": {
+        "file3.txt": {},
+        "file4.txt": {}
+      }
+    },
+    "folder2": {
+      "file5.txt": {},
+      "file6.txt": {}
+    },
+    "file.mp3": {}
+  }
+  
+  <ul className='pl-5'>
+  <li className='flex items-center'>
+    <AiFillCaretRight className='text-md' />Document1.jpg
+  </li>
+  <li className='flex items-center'>
+    <AiFillCaretRight className='text-md' />Document2.jpg
+  </li>
+  <li className='flex items-center'>
+    <AiFillCaretRight className='text-md' />Document3.jpg
+  </li>
+</ul>
